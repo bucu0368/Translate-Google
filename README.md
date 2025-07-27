@@ -1,1 +1,9 @@
-Deploy [Vercel](https://vercel.app)
+# Hosting
+[Vercel](https://vercel.com)
+# Running 
+```bash
+node index.js
+```
+```bash
+npm install
+```
