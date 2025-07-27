@@ -1,2 +1,1 @@
-# Translate-Google
-Api Translate By Google
+Deploy [Vercel](https://vercel.app)
